@@ -1,0 +1,2 @@
+-r ../../requirements-runtime.txt
+pyyaml==6.0.3

@@ -1,0 +1,5 @@
+# Compatibility entry point; root compose.yaml is authoritative.
+# Run from the repository root after scripts/configure_local.py.
+include:
+  - path: ../compose.yaml
+    env_file: ../.env
