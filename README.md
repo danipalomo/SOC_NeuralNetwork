@@ -5,7 +5,6 @@ Centro de operaciones de seguridad (SOC) de investigación que se ejecuta en loc
 > **Importante:** SOC_NeuralNetwork es una plataforma de investigación local. Antes de sacar conclusiones sobre su uso en un entorno real, lee [Estado del proyecto](#estado-del-proyecto) y [Limitaciones conocidas](#limitaciones-conocidas).
 
 
-https://github.com/user-attachments/assets/8768d7db-e35e-4b53-8c2c-4d4b6ec56e06
 
 
 ## Índice
