@@ -6,6 +6,10 @@ Centro de operaciones de seguridad (SOC) de investigación que se ejecuta en loc
 
 
 
+https://github.com/user-attachments/assets/e7d12f3c-3976-4ba1-883c-aba8dbe19f0d
+
+
+
 
 ## Índice
 
